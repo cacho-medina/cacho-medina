@@ -1,3 +1,5 @@
+<img src="./Banner-profile.png" alt="banner by Joaquin Medina, Fullstack Developer">
+
 <h1 align="center">Hola 👋, Soy Joaquin Medina</h1>
 <h3 align="center">💻Fullstack developer</h3>
 

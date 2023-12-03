@@ -1,6 +1,6 @@
 <img src="./Banner-profile.png" alt="banner by Joaquin Medina, Fullstack Developer">
 
-## Hola 👋 soy Joaquin Medina
+## Hola 👋
 
 Soy un entusiasta de la programación con una sólida base en el desarrollo web. Mi pasión por la creación de soluciones tecnológicas y mi compromiso con el aprendizaje continuo me han llevado a explorar el fascinante mundo del desarrollo de software, por lo cual, son elementos clave que impulsan mi búsqueda de conocimiento y experiencia en el campo
 

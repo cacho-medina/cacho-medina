@@ -8,6 +8,7 @@ Soy un entusiasta de la programación con una sólida base en el desarrollo web.
 <a href="https://linkedin.com/in/joaquin-medina22" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/cacho_medina10" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/cacho_medina10" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="mailto:zanlorenzocacho10@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="#" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge"></a>
 </p>
 

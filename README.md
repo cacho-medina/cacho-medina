@@ -1,8 +1,8 @@
 <img src="./Banner-profile.png" alt="banner by Joaquin Medina, Fullstack Developer">
 
-## Hola 👋 soy Joaquin Medina
+# 👋 Hola!
 
-Soy un entusiasta de la programación con una sólida base en el desarrollo web. Mi pasión por la creación de soluciones tecnológicas y mi compromiso con el aprendizaje continuo me han llevado a explorar el fascinante mundo del desarrollo de software, por lo cual, son elementos clave que impulsan mi búsqueda de conocimiento y experiencia en el campo
+Soy Joaquin Medina, un entusiasta de la programación con una sólida base en el desarrollo web. Mi pasión por la creación de soluciones tecnológicas y mi compromiso con el aprendizaje continuo me han llevado a explorar el fascinante mundo del desarrollo de software, por lo cual, son elementos clave que impulsan mi búsqueda de conocimiento y experiencia en el campo
 
 <p align="left">
 <a href="https://linkedin.com/in/joaquin-medina22" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>

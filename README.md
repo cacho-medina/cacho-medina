@@ -9,7 +9,7 @@ Soy Joaquin Medina, un entusiasta de la programación con una sólida base en el
 <a href="https://instagram.com/cacho_medina10" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/cacho_medina10" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="mailto:zanlorenzocacho10@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="#" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge"></a>
+<a href="https://joaquin-medina.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge"></a>
 </p>
 
 <h3 align="center">💻Languages and Tools:</h3>

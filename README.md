@@ -23,13 +23,13 @@ Soy Joaquin Medina, un entusiasta de la programación con una sólida base en el
               <h6><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"></a><p>CSS       </p></h6>
             </td>
             <td align="center">
-              <h6><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a><p>Bootstrap       </p></h6>
+              <h6><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50" height="50"/> </a><p>Bootstrap       </p></h6>
             </td>
             <td align="center">
               <h6><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a><p>Tailwind       </p></h6>
             </td>
             <td align="center">
-              <h6><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a><p>Figma       </p></h6>
+              <h6><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50"></a><p>JavaScript</p></h6>
             </td>
             <td align="center">
               <h6><a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GitFlow" width="50" height="50"></a><p>Git   </p></h6>
@@ -43,10 +43,10 @@ Soy Joaquin Medina, un entusiasta de la programación con una sólida base en el
           </tr>
           <tr>
             <td align="center">
-              <h6><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a><p>Postman     </p></h6>
+              <h6><a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="mongo" width="50" height="50"/> </a><p>Mongo     </p></h6>
             </td>
             <td align="center">
-              <h6><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50"></a><p>JavaScript</p></h6>
+              <h6><a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="50" height="50"></a><p>Mongoose</p></h6>
             </td>
             <td align="center">
               <h6><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="50" height="50"></a><p>Node      </p></h6>

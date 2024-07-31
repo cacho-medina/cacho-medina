@@ -1,18 +1,24 @@
-<img src="./Banner-profile.png" alt="banner by Joaquin Medina, Fullstack Developer">
+<!-- <img src="./Banner-profile.png" alt="banner by Joaquin Medina, Fullstack Developer"> -->
+<img src="./banner-linkedin.png" alt="banner by Joaquin Medina, Fullstack Developer">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hola a todos!
 
-Soy Joaquin Medina, un entusiasta de la programación con una sólida base en el desarrollo web. Mi pasión por la creación de soluciones tecnológicas y mi compromiso con el aprendizaje continuo me han llevado a explorar el fascinante mundo del desarrollo de software, por lo cual, son elementos clave que impulsan mi búsqueda de conocimiento y experiencia en el campo
+<p>
+
+✨Soy Joaquín Medina desarrollador web fullstack. Tengo experiencia desarrollando proyectos freelance y académicos. Orientado al front-end, tengo sólidos conocimientos en tecnologías como React, JavaScript, HTML, CSS y frameworks como Tailwind y Bootstrap. Además, tengo experiencia en back-end utilizando Node.js, Express, Sequelize y Mongoose. Mi pasión por crear soluciones tecnológicas y mi compromiso con el aprendizaje continuo impulsan mi búsqueda de conocimiento y experiencia. </br>
+🎉💻Estoy siempre en busca de nuevas colaboraciones y oportunidades para llevar la creatividad y el diseño a nuevos niveles. Si estás interesado en saber más sobre cómo puedo ayudarte no dudes en contactarme!
+
+</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/joaquin-medina22" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/cacho_medina10" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/cacho_medina10" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="mailto:zanlorenzocacho10@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://joaquin-medina.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge"></a>
+<a href="https://joaquinmedina.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge"></a>
 </p>
 
-<h3 align="center">💻Languages and Tools:</h3>
+<h3 align="center">💻Habilidades:</h3>
 
 <table align="center">
           <tr>
@@ -68,4 +74,3 @@ Soy Joaquin Medina, un entusiasta de la programación con una sólida base en el
             </td>
           </tr>
         </table>
-        
